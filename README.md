@@ -11,18 +11,18 @@ I leverage a diverse, state-of-the-art model ecosystem to redefine marketing, me
 - **Video & Motion:** Orchestrating **Veo** for high-fidelity cinematic and advertising assets.
 - **Visuals & Design:** Utilizing **Nano Banana** and OSS models (via ComfyUI) for rapid creative iteration.
 - **Audio & Music:** Implementing **Lyria** for professional-grade scoring and sound design.
-- **Workflow Engineering:** Building advanced, reproducible pipelines in **ComfyUI** for enterprise-scale media production.
+- **Workflow Engineering:** Building advanced, reproducible pipelines in ComfyUI for enterprise-scale media production.
 
 ## 🚀 Applied AI & Organizational Change
-I focus on the **Human + AI** transformation, primarily with **Gemini** and **Claude**:
+I focus on the **Human + AI** transformation, primarily with Gemini and Claude:
 - **Customer Experience (CX):** Modernizing the customer journey through agentic AI and multi-model orchestration.
 - **Workforce Transformation:** Driving productivity, employee and developer experience through AI-integrated workflows.
 - **Strategic Outcomes:** Moving from "model capability" to "ROI" by solving for organizational change and cultural shifts.
 
 ## 🛠 My Personal Stack
 - **AI Platforms:** Vertex AI, Google AI Studio, Hugging Face
-- **CLI & Agentic Tools:** **Gemini CLI**, **Claude Code**, **comfycli**
-- **Performance Tooling:** **uv** for scripting and managing environments etc
+- **CLI & Agentic Tools:** Gemini CLI, Claude Code, comfycli
+- **Performance Tooling:** uv for scripting and managing environments etc
 - **Environment:** Zsh (Dracula Theme), Git, VS Code, iTerm2
 
 ---
