@@ -18,7 +18,7 @@ I lead Customer Engineering teams across ANZ and build the software around front
 
 ## Foundations & Education
 
-**Graduate Certificate in Artificial Intelligence, La Trobe University**: Postgraduate study focused on first-principles machine learning, deep learning, and natural language processing. Hands-on implementations span classical ML (SVMs, regression, clustering, cross-validation), neural network design for image classification, statistical *n*-gram and TF-IDF modeling, neural text classifiers, and small-LLM fine-tuning for sequence labeling.
+**Graduate Certificate in Artificial Intelligence, La Trobe University**: Postgraduate study focused on first-principles machine learning, computer vision, deep learning, and natural language processing. Implementations span computer vision pipelines (convolutional neural networks, object detection and identification, multi-frame tracking, and pose estimation), classical ML (SVMs, regression, clustering, cross-validation), and NLP (statistical *n*-gram and TF-IDF modeling, neural text classifiers, and small-LLM fine-tuning for sequence labeling).
 
 ## Stack
 
@@ -37,6 +37,7 @@ I lead Customer Engineering teams across ANZ and build the software around front
 ![Go](https://img.shields.io/badge/Code-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=111827)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=111827)
 ![PyTorch](https://img.shields.io/badge/ML-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=111827)
+![OpenCV](https://img.shields.io/badge/Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=111827)
 ![WebAssembly](https://img.shields.io/badge/Runtime-WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&labelColor=111827)
 ![Terraform](https://img.shields.io/badge/Infra-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white&labelColor=111827)
 ![Blender](https://img.shields.io/badge/3D_Passes-Blender_bpy-E87D0D?style=for-the-badge&logo=blender&logoColor=white&labelColor=111827)
