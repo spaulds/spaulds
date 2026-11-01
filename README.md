@@ -43,6 +43,6 @@ Alongside leading technical teams for Google Cloud's enterprise customers across
 ![FFmpeg](https://img.shields.io/badge/Audio_%26_DSP-FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white&labelColor=111827)
 ![DaVinci Resolve](https://img.shields.io/badge/NLE-DaVinci_Resolve_%7C_Premiere-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white&labelColor=111827)
 
-## How I Judge the Work
+## Principles
 
 Models reason and synthesize; deterministic code enforces math, policy, and timing. Generative media works best as controllable stems inside real post-production pipelines rather than one-shot outputs. Reproducible verification comes before any performance claim.
