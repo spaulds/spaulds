@@ -16,9 +16,9 @@ I lead Customer Engineering teams across ANZ and build the software around front
 | **Inspectable AI & Governance** | Deterministic guardrails and evaluation harnesses around stochastic models | Cross-model adversarial spec review (**Gemini** + **Claude**), code-enforced math and compliance gates, **Model Armor**, Cloud Run **IAP**, automated runtime verification |
 | **Interactive Agent Surfaces (Lab)** | Governed in-chat applications and browser-native agent sandboxes | Stateful **Model Context Protocol (MCP)** `ui://` canvases, OAuth 2.0 PKCE, WebRTC, and WebAssembly; lab ports of *Breakout* (a nod to DeepMind's Atari DQN roots), *Freedoom*, and *Tuxemon* |
 
-## Foundations & Leadership
+## Foundations & Education
 
-Alongside leading technical teams for Google Cloud's enterprise customers across Australia and New Zealand, I completed postgraduate study in Artificial Intelligence (**Graduate Certificate in AI, La Trobe University**), grounding applied cloud architecture in first-principles machine learning, neural network design, computer vision, and NLP (from statistical language models to small-LLM fine-tuning).
+**Graduate Certificate in Artificial Intelligence, La Trobe University**: Postgraduate study focused on first-principles machine learning, deep learning, and natural language processing. Hands-on implementations span classical ML (SVMs, regression, clustering, cross-validation), neural network design for image classification, statistical *n*-gram and TF-IDF modeling, neural text classifiers, and small-LLM fine-tuning for sequence labeling.
 
 ## Stack
 
